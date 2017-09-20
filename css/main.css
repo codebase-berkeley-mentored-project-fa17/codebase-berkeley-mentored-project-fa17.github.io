@@ -23,12 +23,13 @@
 }
 .herolinks {
     font-family: sans-serif;
-    min-width: 8rem;
+    min-width: 12rem;
     text-transform: lowercase;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
+    text-align: center;
 }
 
 .item {
@@ -61,12 +62,12 @@
 
 a {
     text-decoration: none;
-    color: #555459;
+    color: #00b0da;
     transition: color 0.2s ease-in-out;
 
 }
 a:hover {
-    color: #00b0da;
+    border-bottom: 1px solid #00b0da;
 }
 
 .bio h1 {
