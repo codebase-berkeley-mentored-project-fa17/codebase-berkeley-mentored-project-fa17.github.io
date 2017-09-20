@@ -10,16 +10,27 @@
     flex-direction: column;
     margin-bottom: 4rem;
 }
+.logo {
+    width: 7rem;
+    height: 7rem;
+    margin-bottom: 1rem;
+}
 .hero:hover a {
     color: #00b0da;
 }
 .herologo {
     transition: color 0.2s ease-in-out;
-    color: #111;
-    text-transform: uppercase;
+    color: #333B3F;
 }
 .herologo:hover {
-    color: #333B3F;
+    color: #111;
+}
+.herologo h3 {
+    font-family: sans-serif;
+    transition: color 0.2s ease-in-out;
+    font-weight: 400;
+    color: #A8A8A8;
+    margin-bottom: -10px;
 }
 .herolinks {
     font-family: sans-serif;
@@ -66,6 +77,9 @@ a {
     transition: color 0.2s ease-in-out;
 
 }
+a.link {
+    border-bottom: 1px solid transparent;
+}
 a.link:hover {
     border-bottom: 1px solid #00b0da;
 }
@@ -86,4 +100,16 @@ blockquote {
 }
 .bio a {
     color: #00b0da;
+}
+
+table, th, td {
+    font-family: sans-serif;
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+    text-align: center;
+    color: #111;
+}
+
+td {
+    color: #333B3F;
 }
