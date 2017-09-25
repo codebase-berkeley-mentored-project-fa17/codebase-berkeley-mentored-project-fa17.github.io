@@ -12,4 +12,7 @@ The official site of the mentored project!
 ## Project Members
 
 Andrew Chan
+
 Brian DeLeonardis
+
+## By Andrew Chan
