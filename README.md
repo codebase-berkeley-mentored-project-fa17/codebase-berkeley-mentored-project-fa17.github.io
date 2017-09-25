@@ -14,3 +14,5 @@ The official site of the mentored project!
 Andrew Chan
 Brian DeLeonardis
 Raymond Guo
+Michelle Hwang
+Sarah Hammond
