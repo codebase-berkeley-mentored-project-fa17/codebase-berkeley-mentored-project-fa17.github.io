@@ -13,4 +13,11 @@ The official site of the mentored project!
 
 Andrew Chan
 Brian DeLeonardis
+<<<<<<< HEAD
 Elise Xu
+=======
+Michelle Hwang
+Sarah Hammond
+Amitav Baruah
+Nilay Khatore
+>>>>>>> a5364eb473851ad38f48a3ed4dd22456bb5b1464
