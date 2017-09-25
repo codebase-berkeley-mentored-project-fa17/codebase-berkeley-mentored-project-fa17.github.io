@@ -16,8 +16,4 @@ Brian DeLeonardis
 Michelle Hwang
 Sarah Hammond
 Amitav Baruah
-<<<<<<< HEAD
 Jared Rosner
-=======
-Nilay Khatore
->>>>>>> a5364eb473851ad38f48a3ed4dd22456bb5b1464
