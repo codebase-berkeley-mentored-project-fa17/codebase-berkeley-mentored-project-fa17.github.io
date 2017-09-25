@@ -16,3 +16,4 @@ Brian DeLeonardis
 Michelle Hwang
 Sarah Hammond
 Amitav Baruah
+Jared Rosner
