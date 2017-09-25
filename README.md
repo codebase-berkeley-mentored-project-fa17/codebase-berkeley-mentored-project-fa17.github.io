@@ -14,8 +14,11 @@ The official site of the mentored project!
 Andrew Chan
 Brian DeLeonardis
 Raymond Guo
+Elise Xu
 Michelle Hwang
 Olivia Shiah
 Sarah Hammond
 Amitav Baruah
+Pratibha Sriram
 Nilay Khatore
+Mary Xu
