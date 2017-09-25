@@ -14,9 +14,7 @@ The official site of the mentored project!
 Andrew Chan
 Brian DeLeonardis
 Michelle Hwang
-<<<<<<< HEAD
 Olivia Shiah
-=======
 Sarah Hammond
 Amitav Baruah
->>>>>>> 451900fb38fffbb7df509e193d144c08944d69be
+Nilay Khatore
