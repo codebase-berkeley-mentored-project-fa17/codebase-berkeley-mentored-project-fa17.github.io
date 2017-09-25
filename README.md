@@ -19,6 +19,7 @@ Michelle Hwang
 Olivia Shiah
 Sarah Hammond
 Amitav Baruah
+Jared Rosner
 Pratibha Sriram
 Nilay Khatore
 Mary Xu
