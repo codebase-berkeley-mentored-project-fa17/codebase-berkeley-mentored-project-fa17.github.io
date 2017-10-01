@@ -11,7 +11,15 @@ The official site of the mentored project!
 
 ## Project Members
 
-Andrew Chan
-Brian DeLeonardis
-Michelle Hwang
-Sarah Hammond
+* Andrew Chan
+* Brian DeLeonardis
+* Raymond Guo
+* Elise Xu
+* Michelle Hwang
+* Olivia Shiah
+* Sarah Hammond
+* Amitav Baruah
+* Jared Rosner
+* Pratibha Sriram
+* Nilay Khatore
+* Mary Xu
